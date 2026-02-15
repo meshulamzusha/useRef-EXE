@@ -20,13 +20,16 @@ function App() {
         <TaskTow />
       </section>
       <section>
+        <h2>Avoid re-render Exercise 1</h2>
         <Counter />
       </section>
       <section>
+        <h2>Avoid re-render Exercise 2</h2>
         <StateTimer />
         <RefTimer />
       </section>
       <section>
+        <h2>Avoid re-render Exercise 3</h2>
         <RefCounter />
       </section>
     </div>
